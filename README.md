@@ -7,8 +7,8 @@ currently, GT06 Connection, get login(s) message(s), position(s) information(s) 
 
 OBSERVATION
 ===========
-This is not a full project, but is a example for your implementation. (Adapt to your Django project or other python framework's project <br/>
-Others informations (Alarm, fence, server call to tracker and others) is not implemented.<br/>
+This is not a full project, but is a example for your implementation. (Adapt to your Django project or other python framework's project) <br/>
+Others functions (receive Alarm, fence, server call to tracker and others) is not implemented.<br/>
 
 
 USAGE
