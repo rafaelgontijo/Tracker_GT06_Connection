@@ -19,6 +19,11 @@ In python terminal, run the code:
     import GT06Connection
     gt06 = GT06Connection()
     gt06.listner()
-    
+
+
+OTHERS AND THANKS
+=================
+the file to generate the crc, i'm not a owner, i did a small change, however i lost the source, if you know, let me know, to i'm put here
+
 <br/><br/>
 Sorry for my bad inglish
